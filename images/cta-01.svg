@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 674" width="1200" height="674" role="img" aria-label="Placeholder image">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3a322a"/><stop offset="1" stop-color="#8a7762"/></linearGradient>
+<radialGradient id="v" cx="50%" cy="45%" r="75%"><stop offset="0.55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.28"/></radialGradient>
+</defs>
+<rect width="1200" height="674" fill="url(#g)"/>
+<rect width="1200" height="674" fill="url(#v)"/>
+<rect x="28" y="28" width="1144" height="618" fill="none" stroke="#F0EAE0" stroke-opacity="0.28" stroke-width="1"/>
+<g fill="#F0EAE0" fill-opacity="0.7" text-anchor="end" font-family="Georgia, 'Times New Roman', serif">
+<text x="1144" y="590" font-size="18" letter-spacing="6">PLACEHOLDER IMAGE · CTA · 01</text>
+<text x="1144" y="616" font-size="13" letter-spacing="2" fill-opacity="0.75" font-style="italic">replace with /public/images/cta-01.jpg</text></g>
+</svg>
